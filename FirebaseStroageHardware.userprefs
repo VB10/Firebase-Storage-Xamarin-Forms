@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{35CF77ED-90CD-4BFE-A8F0-946273DE1026}|Default">
+  <MonoDevelop.Ide.ItemProperties.FirebaseStroageHardware.Droid PreferredExecutionTarget="Android.4.65_720p_Galaxy_Nexus_API_26" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="helper/FireDB.cs">
+    <Files>
+      <File FileName="Views/FileUploadPage.xaml" Line="20" Column="1" />
+      <File FileName="Views/FileUploadPage.xaml.cs" Line="55" Column="1" />
+      <File FileName="App.xaml.cs" Line="10" Column="35" />
+      <File FileName="helper/FireDB.cs" Line="23" Column="86" />
+      <File FileName="Model/User.cs" Line="11" Column="11" />
+      <File FileName="iOS/Main.cs" Line="17" Column="1" />
+      <File FileName="iOS/Info.plist" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/vb/Projects/FirebaseStroageHardware/Views/FileUploadPage.xaml.cs" relfile="Views/FileUploadPage.xaml.cs" line="55" column="46" />
+      <Breakpoint file="/Users/vb/Projects/FirebaseStroageHardware/helper/FireDB.cs" relfile="helper/FireDB.cs" line="23" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.FirebaseStroageHardware.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.68BC22C1-4944-4286-9DDE-11393FA7A59C">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.FirebaseStroageHardware.iOS>
+</Properties>

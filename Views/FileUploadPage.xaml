@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="FirebaseStroageHardware.Views.FileUploadPage">
+	<ContentPage.Content>
+
+        
+        <Grid>
+        <Image  x:Name="_img"/>
+        <Button Grid.Row="1" Clicked="Image_Clicked" Text="Resim Yükle" BackgroundColor="Gray" /> 
+        <Entry Grid.Row="2" Placeholder="user name" x:Name="_ent"/>
+         <Button Grid.Row="3" Text="Upload All" Clicked="Handle_Clicked" BackgroundColor="Fuchsia"/>
+            
+
+        </Grid>
+
+
+
+       
+	</ContentPage.Content>
+</ContentPage>
